@@ -1,4 +1,4 @@
-# Copied text from https://github.com/kaw393939/PythonDockerFlaskPycharm/blob/master/PPFSQL-Homework.pdf
+# text from https://github.com/kaw393939/PythonDockerFlaskPycharm/blob/master/PPFSQL-Homework.pdf
 
 from typing import List, Dict
 import mysql.connector
